@@ -1,5 +1,5 @@
 @Library('roboshop') _
 
-env.COMPONENT = "user"
+env.COMPONENT = "user1"
 env.BUILD_LABEL = "WORKSTATION"
 nodejs()
