@@ -2,4 +2,4 @@
 
 env.COMPONENT = "user"
 env.BUILD_LABEL = "WORKSTATION"
-nodejs()
+immutable_nodejs()
